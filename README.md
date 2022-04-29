@@ -15,7 +15,7 @@
 ```pip install -r requirements.txt```
 
 
-## STEP-7 : Run following commands
+## STEP-4 : Run following commands
 ```python manage.py makemigrations```
 
 ```python manage.py migrate```
@@ -25,7 +25,7 @@
 #### website starts running
 
 
-## Set up superuser
+## Set up superuser - for admin access
 #### Use following command
 ```python manage.py createsuperuser```
 
